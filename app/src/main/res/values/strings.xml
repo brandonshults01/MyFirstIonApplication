@@ -3,4 +3,7 @@
 
     <string name="hello_world">This is MY TEST!!!</string>
     <string name="action_settings">Settings</string>
+    <string name="MyNewButton">Click Me!</string>
+    <string name="TextViewHintMessage">Enter text to be displayed on the next string</string>
+    <string name="title_activity_display_message">New Display Screen</string>
 </resources>
